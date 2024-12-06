@@ -25,9 +25,6 @@
 - MySql
 
 
-
-https://java-spring-course.herokuapp.com/ <br>
-
 - Login
     - Username: admin
     - Password: admin
