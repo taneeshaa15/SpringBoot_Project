@@ -85,6 +85,5 @@ User Registration is licensed under <a href="LICENSE">The MIT License (MIT)</a>.
 
 
 Developed by<br>
-Danilo Meneghel<br>
-danilo.meneghel@gmail.com<br>
-http://danilomeneghel.github.io/<br>
+Tanisha Garg<br>
+
