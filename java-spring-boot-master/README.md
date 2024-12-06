@@ -1,7 +1,3 @@
-# Course
-
-Course registration project using Java Web with Spring Framework.<br>
-Spring much lighter! :)
 
 ## Features
 
